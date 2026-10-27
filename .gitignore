@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.next/
+out/
+dist/
+coverage/
+backend/.pglite/
+backend/uploads/
+.env
+.env.local
+*.log
